@@ -1,5 +1,5 @@
 #  Sobre mim:
-📚Análise e Desenvolvimento de Sistemas<br>💼A procura de estágio na área de desenvolvimento<br>☕ Adoro chá!
+📚Análise e Desenvolvimento de Sistemas<br>☕ Adoro chá!
 
 
 #  Tech Stack:
