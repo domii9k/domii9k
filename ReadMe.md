@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-📚Análise e Desenvolvimento de Sistemas<br>☕ Adoro chá!<br>🐈🐕🐛🦋
+📚Análise e Desenvolvimento de Sistemas - UNISALES<br>☕ Adoro chá!<br>🐈🐕🐛🦋
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/laura-siqueira-658a4722b) 
